@@ -1,1 +1,1 @@
-# Multithreading-FunctionalProgramming
+# Многопоточное и функциональное программирование
