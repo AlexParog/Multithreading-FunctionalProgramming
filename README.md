@@ -7,6 +7,8 @@
 * [Volatile](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_ThreadLocalAtomics_Volatile_1_3_1/src/com/company)
 * [Atomics](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_ThreadLocalAtomics_Volatile_1_3_2/src/com/company)
 * [Коллекции для параллельной (конкурирующей) работы](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_CollectionsForParallelWork_1_4_1/src/com/company)
+* [Клиент-серверное взаимодействие. Blocking IO]()
+* [Клиент-серверное взаимодействие. Non-Blocking IO]()
 ### *Блок 2. Функциональное программирование, TDD и DDD*
 
 
