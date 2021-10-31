@@ -9,6 +9,8 @@
 * [Коллекции для параллельной (конкурирующей) работы](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_CollectionsForParallelWork_1_4_1/src/com/company)
 * [Клиент-серверное взаимодействие. Blocking IO](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_BlockingNon-BlockingIO_1_5_1/src/com/company)
 * [Клиент-серверное взаимодействие. Non-Blocking IO](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_BlockingNon-BlockingIO_1_5_2/src/com/company)
-### *Блок 2. Функциональное программирование, TDD и DDD*
+### *Блок 2. Функциональное программирование, TDD*
 * [Функциональное программирование](https://github.com/AlexParog/Multithreading-FunctionalProgramming/tree/main/NMFP_FunctionalProgramming_2_1_1/src/com/company)
+* [TDD]()
+
 
